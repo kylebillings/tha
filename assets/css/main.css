@@ -252,6 +252,12 @@ hr {
     margin: 0;
     padding: 0;
 }
+
+#welcome {
+    padding: 90px;
+    text-align: center;
+}
+
 #serviceswrap {
     background: url(../img/thethree.jpg) no-repeat center top;
     margin-top: -10px;
